@@ -26,5 +26,10 @@ Your Username: haxorsecurity
 [+] Successfull AddUser admin!
 ```
 
-### Enjoy!
 ### Bug ? Please Report issue or contact : mrcakil@programmer.net
+
+## Disclaimer
+
+This repository is for educationnal purposes only.
+Malicious usage of this repository will not hold the author responsible.
+Do not pentest without explicit permissions.
