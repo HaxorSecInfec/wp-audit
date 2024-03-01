@@ -55,3 +55,7 @@ else
   echo -e "$cyan[+]$red Failed AddUser admin!"
 fi
 done
+
+
+#cleanup
+rm -rf user.txt  wp.txt link.txt s.sql
