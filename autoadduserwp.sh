@@ -51,10 +51,7 @@ then
   echo -e "$cyan[+]$okegreen Successfull AddUser admin!"
   sleep 2
   echo " "
-  rm -rf user.txt link.txt s.sql
 else
   echo -e "$cyan[+]$red Failed AddUser admin!"
-    rm -rf user.txt link.txt s.sql
 fi
 done
-  rm -rf wp.txt user.txt link.txt s.sql
